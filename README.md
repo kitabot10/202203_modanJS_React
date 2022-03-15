@@ -1,2 +1,2 @@
-# 202203_modanJS_React
+# My_Training
 Created with CodeSandbox
